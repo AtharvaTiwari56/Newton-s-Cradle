@@ -51,7 +51,6 @@ function draw() {
   rope4.display();
   rope5.display();
 
-  keyPressed();
   
   drawSprites();
  
