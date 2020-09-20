@@ -3,8 +3,8 @@ class Bob {
         var paperoptions = {
             isStatic: false,
             restitution:1.0,
-            friction:0.5,
-            density:0.5
+            friction:0,
+            density:0.8
         }
         this.radius = radius;
         this.x = x;
